@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Backend development**
 
-- 🌱 I’m currently learning **Python, Java and Raspberry PI**
+- 🌱 I’m currently learning **Python, Java and IoT**
 
 - 💬 Ask me about **Backend development, technology and insights**
 
